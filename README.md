@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Thanos0710
-- 👀 I’m interested in Cyber security and Ethical Hacking
+- 👋 Hi, I’m @Parshuram
+- 👀 I’m interested in Cyber security and Ethical Hacking 
 - 🌱 I’m currently learning BSCSCIT
 - 💞️ I’m looking to collaborate on pentesting and Ethical hacking
 - 📫 How to reach me ...
